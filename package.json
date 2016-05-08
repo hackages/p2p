@@ -1,0 +1,21 @@
+{
+  "name": "payment",
+  "version": "0.0.1",
+  "description": "peer to peer payment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackages/p2p.git"
+  },
+  "keywords": [],
+  "author": "007@hackages.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackages/p2p/issues"
+  },
+  "homepage": "https://github.com/hackages/p2p#readme"
+}
